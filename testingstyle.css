@@ -1,4 +1,13 @@
 body{
     text-align: center;
-    color: brown;
+    color: blue;
+}
+
+p{
+    text-align: justify;
+
+}
+
+b{
+    text-align: justify;
 }
